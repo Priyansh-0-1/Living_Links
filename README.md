@@ -28,5 +28,5 @@ A modern real estate web application built to streamline property listings, faci
 **Authentication**  
 `Session-based Auth`
 
-## 📁 Folder Structure
+
 
